@@ -16,7 +16,7 @@ Web Based Charity Management System developed using PHP and MySQL. This project 
 	photo		<br>
 	staff<br>
 	
-<b>How to install the project</b>
+<b>How to install the project</b><br>
 Step 1 : Extract file from Files folder.<br>
 Step 2 : Create database using online_charity from Database folder.<br>
 Step 3 : Paste database content in the database folder.<br>
