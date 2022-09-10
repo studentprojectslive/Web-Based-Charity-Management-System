@@ -1,0 +1,28 @@
+--Donor Login
+--Donor Register
+
+--Display Members
+--Display Members detailed
+
+--Staff Login
+
+####Donor####
+@Donor Account
+--Donor Profile
+--Change Password
+--Logout
+
+####Staff####
+@Members
+--Add member
+--View members
+--Add member type
+--View member type
+
+@Staff Account
+--Dashboard
+--Staff Profile
+--Staff Change password
+--Add Staff
+--View Staff
+--Logout

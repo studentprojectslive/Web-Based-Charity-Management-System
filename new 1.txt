@@ -1,0 +1,6 @@
+#Step 1: insert inside form tag: onsubmit="return validateform()"
+<form method="post" action="" enctype="multipart/form-data">
+
+#Step 2: Add following span tag for every form control:
+<span id="errstatus" class="errorclass"></span>
+
